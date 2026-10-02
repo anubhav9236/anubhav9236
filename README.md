@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Batham</h1>
 <h3 align="center">A passionate Software Engineer Student from India</h3>
 
-<img aline="left" alt="coding" width="200" src="<img width="183" height="275" alt="image" src="https://github.com/user-attachments/assets/3124f9f1-4e81-4729-8bef-fc7687ca2ae2" >
+ src="<img width="183" height="275" alt="image" src="https://github.com/user-attachments/assets/3124f9f1-4e81-4729-8bef-fc7687ca2ae2" >
  >
 
 >
