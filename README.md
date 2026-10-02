@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav9236&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav9236" /> </p>
 
-- 🌱 I’m currently learning **BCA, Python ,DSA ,SQL**
+- 🌱 I’m currently learning **BCA, Python ,DSA ,Java,SQL**
 
 - 📫 How to reach me **bathamanubhav365@gmail.com**
 
